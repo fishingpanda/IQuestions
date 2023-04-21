@@ -1,0 +1,83 @@
+{
+    "categories": [
+        {
+            "name": "Keeping customer first/ Customer Obsession",
+            "questions": [
+                {
+                    "question": "Tell me about a time when you went above and beyond for a customer?"
+                },
+                {
+                    "question": "How do you handle difficult customers who seem impossible to please?"
+                },
+                {
+                    "question": "How do you ensure that all team members are customer-focused and understand the importance of customer obsession?"
+                },
+                {
+                    "question": "How do you gather and analyze customer feedback to continuously improve the customer experience?"
+                },
+                {
+                    "question": "How do you maintain customer obsession while also innovating and introducing new products or services?"
+                }
+            ]
+        },
+        {
+            "name": "Managing priorities",
+            "questions": [
+                {
+                    "question": "How do you determine which priorities take precedence, especially when they are all important and urgent?"
+                },
+                {
+                    "question": "How do you communicate priority changes and decisions to all relevant stakeholders, and ensure that they are understood and accepted?"
+                },
+                {
+                    "question": "How do you prioritize tasks and projects within a team or department, especially when there are competing deadlines?"
+                }
+            ]
+        },
+        {
+            "name": "Taking initiative/ Ownership",
+            "questions": [
+                {
+                    "question": "Tell us about the last time that you undertook a project that demanded a lot of initiative. How did you approach it?"
+                },
+                {
+                    "question": "Tell me about a time when you took ownership of a project or initiative that wasn't initially your responsibility."
+                },
+                {
+                    "question": "How do you handle situations where multiple people or teams are involved in a project or task?"
+                },
+                {
+                    "question": "How do you ensure that you're taking ownership of your own development and growth?"
+                }
+            ]
+        },
+        {
+            "name": "Invent and Simplify",
+            "questions": [
+                {
+                    "question": "Tell me about a time when you came up with a creative solution to a complex problem."
+                },
+                {
+                    "question": "How do you ensure that you're constantly looking for ways to simplify processes and tasks?"
+                },
+                {
+                    "question": "Can you give me an example of a time when you simplified a process or task to make it more efficient?"
+                }
+            ]
+        },
+        {
+            "name": "Having Conviction/Right a lot",
+            "questions": [
+                {
+                    "question": "Tell me about a time when you made a difficult decision that turned out to be the right one."
+                },
+                {
+                    "question": "How do you ensure that you're making decisions based on data and facts rather than emotions or assumptions?"
+                },
+                {
+                    "question": "How do you handle situations where there isn't a clear answer or solution?"
+                }
+            ]
+        }
+    ]
+}
